@@ -6,7 +6,7 @@ h1 {
 }
 
 html {
-  background-color: yellow;
+  background-color: green;
   text-align: center;
 }
 
@@ -39,7 +39,7 @@ p:hover {
 }
 
 .circular {
-border-radius: 100%; 
+border-radius: 100%;
 }
 
 
