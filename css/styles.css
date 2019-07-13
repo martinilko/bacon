@@ -1,0 +1,50 @@
+/******************** TAG SELECTORS ********************/
+
+h1 {
+  color: red;
+  font-size: 60px;
+}
+
+html {
+  background-color: yellow;
+  text-align: center;
+}
+
+img {
+  background-color: purple;
+}
+
+img:hover {
+  background-color: turquoise;
+
+}
+
+p {
+  color: lightgrey;
+}
+p:hover {
+  color: inherit;
+}
+
+/******************** CLASS SELECTORS ********************/
+
+
+
+.aubergine {
+  background-color: inherit ;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.circular {
+border-radius: 100%; 
+}
+
+
+/******************** ID SELECTORS ********************/
+
+#heading {
+  color: blue;
+}
